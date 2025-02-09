@@ -1,21 +1,17 @@
-## Hi there 👋 I'm Najib
+<!-- ## Hi there 👋 I'm Najib -->
 
-- 🔭 I’m currently working on [Cargo Community Network Pte.Ltd](https://cubeforall.com/)
-- 🌱 I’m currently learning Python for Data Engineering.
+<p align="center"><a href="https://najibean.github.io"><img width="80%" alt="Hello 👋, I'm Najib."/></a></p>
+
+</br>
+
+Mid-level Backend Developer for TypeScript & JavaScript
+
+**About me**
+
+- 💼 Software Engineer at [Cargo Community Network Pte.Ltd](https://cubeforall.com/).
+
+- 🌱 Currently learning Python for `Data Engineering`.
+
 - 👯 I’m looking to collaborate on Backend things that use ExpressJS and NestJS framework on NodeJS runtime.
-- 📫 You can ping me in my [LinkedIn](https://www.linkedin.com/in/fuadnajibullah/) or by Email: `najibullah89@gmail.com`
 
-<!--
-**najibean/najibean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💬 Beep me in my [LinkedIn](https://www.linkedin.com/in/fuadnajibullah/) or send to Email: `najibullah89@gmail.com`.
