@@ -1,6 +1,6 @@
 <!-- ## Hi there 👋 I'm Najib -->
 
-<p align="center"><a href="https://najibean.github.io"><img width="80%" alt="Hello 👋, I'm Najib."/></a></p>
+<h2 align="center">Hello 👋, I'm Najib.</h2>
 
 </br>
 
@@ -15,3 +15,14 @@ Mid-level Backend Developer for TypeScript & JavaScript
 - 👯 I’m looking to collaborate on Backend things that use ExpressJS and NestJS framework on NodeJS runtime.
 
 - 💬 Beep me in my [LinkedIn](https://www.linkedin.com/in/fuadnajibullah/) or send to Email: `najibullah89@gmail.com`.
+
+</br>
+
+<code><img height="40" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="40" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="40" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+
+</br>
+
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=najibean&show_icons=true&include_all_commits=true&theme=onedark&hide_border=true" alt="Najibean's github stats" /></a> |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
