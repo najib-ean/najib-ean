@@ -26,4 +26,4 @@ Mid-level Backend Developer for TypeScript & JavaScript.
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=najibean&show_icons=true&locale=en" alt="najibean" /></p></br>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=najibean&" alt="najibean" /></p>
+<!-- <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=najibean&" alt="najibean" /></p> -->
