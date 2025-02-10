@@ -12,7 +12,7 @@ Mid-level Backend Developer for TypeScript & JavaScript.
 
 - 👯 I’m looking to collaborate on Backend things that use ExpressJS and NestJS framework on NodeJS runtime
 
-- 💬 Beep me in my [LinkedIn](https://www.linkedin.com/in/fuadnajibullah/) or send to Email: `najibullah89@gmail.com`
+- 💬 Beep me in my [LinkedIn](https://www.linkedin.com/in/fuadnajibullah/) or my email: `najibullah89@gmail.com`
 
 </br>
 
