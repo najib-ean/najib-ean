@@ -4,6 +4,8 @@
 
 Mid-level Backend Developer - Software Engineer - Backend Engineer with over 4 years of experience.
 
+</br>
+
 **About me**
 
 - 💼 Back End Engineer at [OneByOne Logistical](https://www.onebyone.io/)
