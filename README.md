@@ -22,6 +22,8 @@ Mid-level Backend Developer - Software Engineer - Backend Engineer with over 4 y
 
 </br>
 
+📢 📢 📢 **`This account was created at the end of 2025 after losing access to my previous GitHub account.`**
+
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=najib-ean&show_icons=true&locale=en&layout=compact" alt="najib-ean" /></p></br> -->
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=najibean&show_icons=true&locale=en" alt="najibean" /></p></br> -->
