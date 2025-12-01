@@ -1,18 +1,16 @@
-<h2 align="center">Hello 👋, I'm Najib.</h2>
+<h2 align="center">Hello 👋, I'm Najib</h2>
 
 </br>
 
-Mid-level Backend Developer for TypeScript & JavaScript.
+Mid-level Backend Developer - Software Engineer - Backend Engineer with over 4 years of experience.
 
 **About me**
 
-- 💼 Software Engineer at [Cargo Community Network Pte.Ltd](https://cubeforall.com/)
+- 💼 Back End Engineer at [OneByOne Logistical](https://www.onebyone.io/)
 
-- 🌱 Currently learning Python for `Data Engineering`
+- 🌱 Currently deepening my proficiency in `Java` and `.NET` by exploring and understanding their built-in features, core libraries, and ecosystem capabilities to strengthen my overall software engineering foundation.
 
-- 👯 I’m looking to collaborate on Backend things that use ExpressJS and NestJS framework on NodeJS runtime
-
-- 💬 Beep me in my [LinkedIn](https://www.linkedin.com/in/fuadnajibullah/) or my email: `najibullah89@gmail.com`
+- 💬 Beep me on my [LinkedIn](https://www.linkedin.com/in/fuadnajibullah/) or by email: `najibullah89@gmail.com`
 
 </br>
 
@@ -22,7 +20,7 @@ Mid-level Backend Developer for TypeScript & JavaScript.
 
 </br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=najibean&show_icons=true&locale=en&layout=compact" alt="najibean" /></p></br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=najib-ean&show_icons=true&locale=en&layout=compact" alt="najib-ean" /></p></br>
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=najibean&show_icons=true&locale=en" alt="najibean" /></p></br> -->
 
