@@ -8,7 +8,7 @@ Mid-level Backend Developer - Software Engineer - Backend Engineer with over 4 y
 
 - 💼 Back End Engineer at [OneByOne Logistical](https://www.onebyone.io/)
 
-- 🌱 Currently deepening my proficiency in `Java` and `.NET` by exploring and understanding their built-in features, core libraries, and ecosystem capabilities to strengthen my overall software engineering foundation.
+- 🌱 Currently deepening my proficiency in Java and .NET, exploring their built-in features in greater depth.
 
 - 💬 Beep me on my [LinkedIn](https://www.linkedin.com/in/fuadnajibullah/) or by email: `najibullah89@gmail.com`
 
@@ -19,8 +19,6 @@ Mid-level Backend Developer - Software Engineer - Backend Engineer with over 4 y
 <code><img height="40" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 
 </br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=najib-ean&show_icons=true&locale=en&layout=compact" alt="najib-ean" /></p></br>
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=najibean&show_icons=true&locale=en" alt="najibean" /></p></br> -->
 
