@@ -8,7 +8,7 @@ Mid-level Backend Developer - Software Engineer - Backend Engineer with over 4 y
 
 **About me**
 
-- 💼 Back End Engineer at [OneByOne Logistical](https://www.onebyone.io/)
+- 💼 Backend Engineer at [OneByOne Logistical](https://www.onebyone.io/)
 
 - 🌱 Currently deepening my proficiency in Java and .NET, exploring their built-in features in greater depth.
 
