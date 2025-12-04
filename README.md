@@ -2,7 +2,7 @@
 
 </br>
 
-Mid-level Backend Developer - Software Engineer - Backend Engineer with over 4 years of experience.
+Mid-level Backend Developer - Software Engineer - Backend Engineer over 4 years of experience.
 
 </br>
 
